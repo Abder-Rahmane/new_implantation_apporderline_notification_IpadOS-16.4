@@ -1,11 +1,12 @@
 New maj API Push IpadOS 16.4 
 
-I finally implemented a notification system on the new IpadOS 16.4 beta for pwa, using : <br> <a href="https://developer.mozilla.org/en-US/docs/Web/API/Push_API">Push API</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API">Notifications API</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API">Service Workers</a>
+<h2>I finally implemented a notification system on the new IpadOS 16.4 beta for pwa, using : <br> <a href="https://developer.mozilla.org/en-US/docs/Web/API/Push_API">Push API</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API">Notifications API</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API">Service Workers</a><h2>
 
 My work
 
 https://user-images.githubusercontent.com/90828091/222831008-1c047d9c-7f87-4b8b-a6a2-5adb1398d3e1.mp4
-
+<br><br>
+<p>
 "Web Push for Web Apps added to the Home Screen
 Now with iOS and iPadOS 16.4 beta 1, we are adding support for Web Push to Home Screen web apps. Web Push makes it possible for web developers to send push notifications to their users through the use of Push API, Notifications API, and Service Workers all working together.
 
@@ -15,4 +16,5 @@ A web app that has been added to the Home Screen can request permission to recei
 Feb 16, 2023
 
 by Brady Eidson and Jen Simmons
+</p>
 
