@@ -4,12 +4,13 @@ I finally implemented a notification system on the new IpadOS 16.4 beta for pwa,
 
 My work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kyu6wrUUfkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/90828091/222831008-1c047d9c-7f87-4b8b-a6a2-5adb1398d3e1.mp4
 
 "Web Push for Web Apps added to the Home Screen
 Now with iOS and iPadOS 16.4 beta 1, we are adding support for Web Push to Home Screen web apps. Web Push makes it possible for web developers to send push notifications to their users through the use of Push API, Notifications API, and Service Workers all working together.
 
 A web app that has been added to the Home Screen can request permission to receive push notifications as long as that request is in response to direct user interaction — such as tapping on a ‘subscribe’ button provided by the web app. iOS or iPadOS will then prompt the user to give the web app permission to send notifications. Once allowed, the user can manage those permissions per web app in Notifications Settings — just like any other app on iPhone and iPad."
+
 
 Feb 16, 2023
 
